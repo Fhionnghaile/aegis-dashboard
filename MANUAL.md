@@ -11,6 +11,9 @@ A live view of the detections the Aegis pipeline produces: severity tiles, a cha
 ## 3. Demo
 Run locally with the mock feed (`npm run dev`, then open http://localhost:5173). Capture to record: a short screen recording of the live table filling.
 
+![Real test run, captured 24 Nov 2026](docs/test-run.svg)
+*Real strict type-check and production build, captured 24 Nov 2026.*
+
 ## 4. Run it yourself
 **Prerequisites:** Node.js and npm.
 

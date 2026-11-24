@@ -4,7 +4,7 @@
 > **A live SOC dashboard that shows detections as they land.**  
 > **Result:** TypeScript with a strict typecheck + production build that passes clean (`tsc --noEmit && vite build`).  
 > **Reproduce:** `npm ci && npm run build`  
-> ![CI](https://github.com/fhionnghaile/aegis-dashboard/actions/workflows/ci.yml/badge.svg)
+> ![CI](https://github.com/fhionnghaile/aegis-dashboard/actions/workflows/ci.yml/badge.svg) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Fhionnghaile/aegis-dashboard/badge)](https://scorecard.dev/viewer/?uri=github.com/Fhionnghaile/aegis-dashboard)
 >
 > **What this is worth:** Turns the pipeline's output into something a human can triage in seconds — detection is only useful if someone can see it.
 
